@@ -1,0 +1,14 @@
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\bin\Debug\net10.0\atividade-biblioteca-a11-rdi.exe
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\bin\Debug\net10.0\atividade-biblioteca-a11-rdi.deps.json
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\bin\Debug\net10.0\atividade-biblioteca-a11-rdi.runtimeconfig.json
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\bin\Debug\net10.0\atividade-biblioteca-a11-rdi.dll
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\bin\Debug\net10.0\atividade-biblioteca-a11-rdi.pdb
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\obj\Debug\net10.0\atividade-biblioteca-a11-rdi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\obj\Debug\net10.0\atividade-biblioteca-a11-rdi.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\obj\Debug\net10.0\atividade-biblioteca-a11-rdi.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\obj\Debug\net10.0\atividade-biblioteca-a11-rdi.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\obj\Debug\net10.0\atividade-biblioteca-a11-rdi.dll
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\obj\Debug\net10.0\refint\atividade-biblioteca-a11-rdi.dll
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\obj\Debug\net10.0\atividade-biblioteca-a11-rdi.pdb
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\obj\Debug\net10.0\atividade-biblioteca-a11-rdi.genruntimeconfig.cache
+C:\Users\lucia\OneDrive\Área de Trabalho\atividade-biblioteca-a11-rdi\obj\Debug\net10.0\ref\atividade-biblioteca-a11-rdi.dll
